@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.surface-div{
+    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url(./img/ms\ surface.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.xbox-div{
+    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url('https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Xbox-Series-S-FIFA-23-Score-More-With-Xbox-Lionesses:VP5-1596x600');
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.last-div{
+    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-SMB-Audience-Marketing-CyberSecurity-Highlight-ftr:VP5-1596x600');
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
